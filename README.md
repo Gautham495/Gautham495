@@ -19,7 +19,9 @@
 <a href = "https://www.amazon.com/gp/product/B08RCJ4XRV" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" width='300px' height='80px' ></a>
 
 </span>
+<a href ="https://appgallery.huawei.com/#/app/C103592381" target="_blank">
 <img src="https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/campaign/emui91/images/Badge-Black.png" width='300px' height='80px' />
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gautham495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautham495" height="30" width="40" /></a>
