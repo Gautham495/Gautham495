@@ -23,6 +23,7 @@
 <img src="https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/campaign/emui91/images/Badge-Black.png" width='300px' height='80px' />
 </a>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/gautham495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautham495" height="30" width="40" /></a>
 <a href="https://twitter.com/GauthamVijay495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gautham495" height="30" width="40" /></a>
