@@ -11,17 +11,7 @@
 
 - 📫 How to reach me **kinggautham495@gmail.com**
 
-#### My React Native mobile app Neo Budget has released! Click the links below to download my app. 
 
-<span>
-<a href="https://galaxy.store/Gautham7" target="_blank" ><img src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_big/GalaxyStore_English.png?ver=1609118206000" alt="Available on Samsung Galaxy Store" width='300px' height='80px'  /></a>
-
-<a href = "https://www.amazon.com/gp/product/B08RCJ4XRV" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" width='300px' height='80px' ></a>
-
-</span>
-<a href ="https://appgallery.huawei.com/#/app/C103592381" target="_blank">
-<img src="https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/campaign/emui91/images/Badge-Black.png" width='300px' height='80px' />
-</a>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
