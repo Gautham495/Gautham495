@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gautham Vijayan</h1>
 <h3 align="center">Frontend React.js developer and React Native mobile app developer.</h3>
 
-- 🌱 I’m currently learning **Next js and my next mobile app**
-
 - 👨‍💻 All of my projects are available at [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)
 
-- 📝 I regulary write articles on [https://coding-magnified.tech/](https://coding-magnified.tech/)
-
-- 💬 Ask me about **React, CSS and Wordpress**
+- 💬 Ask me about **React, React Native, Firebase**
 
 - 📫 How to reach me **kinggautham495@gmail.com**
 
