@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautham Vijayan</h1>
 <h3 align="center">Frontend React.js developer and React Native mobile app developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, React Native, Firebase**
 
