@@ -3,7 +3,7 @@
 
 - 👨‍💻 My Portfolio [https://gautham-portfolio.netlify.app/](https://gautham-portfolio.netlify.app/)
 
-- 💬 Ask me about **React JS,React Native, Next JS, Swift UI, Fastlane, Firebase, JavaScript**
+- 💬 Ask me about **React JS, React Native, Next JS, Fastlane, Firebase, JavaScript**
 
 - 📫 How to reach me **kinggautham495@gmail.com**
 
