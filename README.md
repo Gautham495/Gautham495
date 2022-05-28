@@ -5,9 +5,6 @@
 
 - 💬 Ask me about **React JS, React Native, Next JS, Fastlane, Firebase, JavaScript**
 
-- 📫 How to reach me **kinggautham495@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
