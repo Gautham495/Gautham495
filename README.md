@@ -9,7 +9,7 @@
 
 <p align="left">
 <a href="https://dev.to/gautham495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautham495" height="30" width="40" /></a>
-<a href="https://twitter.com/GauthamVijay495" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gautham495" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gautham-vijayan-a15722184" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gautham vijayan" height="30" width="40" /></a>
+<a href="https://twitter.com/gautham_vijay_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gautham495" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautham-vijayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gautham vijayan" height="30" width="40" /></a>
 
 </p>
