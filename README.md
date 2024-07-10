@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautham Vijayan</h1>
-<h3 align="center">Frontend React JS developer and React Native mobile app developer.</h3>
+<h3 align="center">Senior Frontend React JS & React Native mobile app developer.</h3>
 
 - 👨‍💻 My Portfolio [https://www.gauthamvijay.com/](https://www.gauthamvijay.com/)
 
