@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
 <h3 align="center">Senior Frontend React JS & React Native mobile app developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautham495&label=Profile%20views&color=0e75b6&style=flat" alt="gautham495" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/gautham_vijay_" target="blank"><img src="https://img.shields.io/twitter/follow/gautham_vijay_?logo=twitter&style=for-the-badge" alt="gautham_vijay_" /></a> </p>
-
-- 🔭 I’m currently working on **SparkHabits**
+- 🔭 I’m currently working at **SparkHabits**
 
 - 🌱 I’m currently learning **Postgres SQL, Java & Swift**
 
@@ -21,10 +16,6 @@
 - 📄 View my courses in Udemy [https://www.udemy.com/user/gautham-vijayan-3/](https://www.udemy.com/user/gautham-vijayan-3/)
 
 - ⚡ Real fact about me **The skills I made over the years are due to my consistency, discipline and the fire to exceed my own expectations and I will continue to do so!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
