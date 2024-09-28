@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **gauthamvijay495@gmail.com**
 
-- 📄 View my courses in Udemy [https://www.udemy.com/user/gautham-vijayan-3/](https://www.udemy.com/user/gautham-vijayan-3/)
-
 - ⚡ Real fact about me **The skills I made over the years are due to my consistency, discipline and the fire to exceed my own expectations and I will continue to do so!**
 
 <h3 align="left">Connect with me:</h3>
