@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
-<h3 align="center">Senior Frontend React JS & React Native mobile app developer.</h3>
+<h3 align="center">Senior Frontend React JS & React Native mobile app developer with 5 years of industry experience.</h3>
 
-- 🔭 I’m currently working at **SparkHabits**
+- 🔭 I'm currently working at **SparkHabits**
 
-- 🌱 I’m currently learning **Postgres SQL, Java & Swift**
+- 🌱 I’m currently learning **GenAI, PostgresSQL, Vector Databases, Kotlin & Swift**
 
 - 👨‍💻 All of my projects are available at [https://www.gauthamvijay.com/](https://www.gauthamvijay.com/)
 
