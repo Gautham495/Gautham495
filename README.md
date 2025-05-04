@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working at **SparkHabits ✨**
 
-- - 👨‍💻 All of my projects are available at [https://www.gauthamvijay.com/](https://www.gauthamvijay.com/)
+- 👨‍💻 All of my projects are available at [https://www.gauthamvijay.com/](https://www.gauthamvijay.com/)
 
 - 🎥 Watch React Native and development related videos on YouTube at [https://www.youtube.com/@gauthamvijay](https://www.youtube.com/@gauthamvijay)
 
