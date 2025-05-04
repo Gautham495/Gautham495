@@ -4,9 +4,11 @@
 
 - 🔭 I'm currently working at **SparkHabits**
 
-- 🌱 I’m currently learning **GenAI, PostgresSQL, Vector Databases, Kotlin & Swift**
+- 🌱 I’m currently learning **Generative AI, Applied AI, PostgresSQL, Vector Databases, AI Agents, MCP, Kotlin & Swift**
 
 - 👨‍💻 All of my projects are available at [https://www.gauthamvijay.com/](https://www.gauthamvijay.com/)
+
+- 🎥 Watch React Native and development related videos on YouTube at [https://www.youtube.com/@gauthamvijay](https://www.youtube.com/@gauthamvijay)
 
 - 📝 I regularly write articles on [https://gauthamvijay.medium.com/](https://gauthamvijay.medium.com/)
 
