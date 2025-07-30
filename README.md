@@ -8,8 +8,6 @@
 
 - 🎥 Watch React Native and development related videos on YouTube at [https://www.youtube.com/@gauthamvijay](https://www.youtube.com/@gauthamvijay)
 
-- 📝 I regularly write articles on [https://gauthamvijay.medium.com/](https://gauthamvijay.medium.com/)
-
-- 🌱 I’m currently learning **Generative AI, Applied AI, PostgresSQL, Vector Databases, AI Agents, MCP, Kotlin & Swift**
+- 🌱 I’m currently learning **Applied AI Engineering, Voice AI Engineering - LLMs, TTS, STT, Vector Databases, Embeddings PostgresSQL, Voice AI Agents, MCP, Kotlin & Swift**
 
 - 📫 How to reach me **gauthamvijay495@gmail.com**
