@@ -30,7 +30,7 @@ Building **SparkHabits** & **SHINE AI**, 5 days a week.
 ### 🎥 Where else to find me
 
 - 🌐 Portfolio — [gauthamvijay.com](https://www.gauthamvijay.com/)
-- 📺 YouTube — [@gauthamvijay](https://www.youtube.com/@gauthamvijay) (React Native + AI dev)
+- 📺 YouTube — [@gauthamvijay](https://www.youtube.com/@gauthamvijay) (React Native + App development)
 - 💼 LinkedIn — [gautham-vijayan](https://www.linkedin.com/in/gautham-vijayan/)
 - 🐦 X — [@gautham_vijay_](https://x.com/gautham_vijay_)
 - 📫 gauthamvijay495@gmail.com
