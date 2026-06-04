@@ -23,7 +23,7 @@ The hard part of open source isn't shipping v0.1 — it's still being there at v
 
 ### 💼 Day job
 
-Building **SparkHabits** & **SHINE AI**, 5 days a week.
+Building [**SparkHabits**](https://www.sparkhabits.com/download-app) & [**SHINE AI**](https://shineai.io/), 5 days a week.
 
 ---
 
