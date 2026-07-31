@@ -2,7 +2,7 @@
 
 I build and **maintain** production-grade React Native libraries — mostly Nitro modules that solve real problems RN teams hit in production.
 
-🇮🇳 · Lead Engineer · 6+ years shipping React Native, JSI/C++ nitro native modules, and real-time systems with Cloudflare.
+🇮🇳 · Lead Engineer · 6+ years shipping React Native, Next JS, JSI/C++ nitro native modules, and real-time systems with Cloudflare.
 
 ---
 
@@ -40,5 +40,3 @@ Building [**SparkHabits**](https://www.sparkhabits.com/download-app) & [**SHINE 
 ### ❤️ Sponsor my work
 
 If a library of mine is in your production app, or saved you a week of native work — **[sponsor me on GitHub](https://github.com/sponsors/Gautham495)**. Sponsorships fund protected maintenance hours every single week, so the libraries you depend on stay alive as iOS, Android, and React Native keep moving.
-
-Tiers from $5/mo (coffee) up to $1,499/mo (Enterprise — priority SLA, private channel, quarterly feature prioritization).
