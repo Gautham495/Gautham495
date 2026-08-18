@@ -13,9 +13,9 @@ I build and **maintain** production-grade React Native libraries — mostly Nitr
 | [**react-native-nitro-cloud-uploader**](https://github.com/Gautham495/react-native-nitro-cloud-uploader) | Resumable, background-friendly S3 multipart uploads for large files |
 | [**react-native-play-age-range-declaration**](https://github.com/Gautham495/react-native-play-age-range-declaration) | Google Play Age Signals + Apple Declared Age Range |
 | [**react-native-nitro-ios-alarm-kit**](https://github.com/Gautham495/react-native-nitro-ios-alarm-kit) | iOS 26+ AlarmKit, wrapped properly |
-| [**react-native-nitro-skan-referrer**](https://github.com/Gautham495/react-native-nitro-skan-referrer) | SKAdNetwork + Google Install Referrer in one module |
 | [**react-native-nitro-pose-exercises**](https://github.com/Gautham495/react-native-nitro-pose-exercises) | On-device rep counting + form validation (Apple Vision / ML Kit) |
 | [**react-native-nitro-sensors-kit**](https://github.com/Gautham495/react-native-nitro-sensors-kit) | All six core device sensors via JSI, zero bridge |
+| [**react-native-nitro-better-auth-passkey**](https://github.com/Gautham495/react-native-nitro-better-auth-passkey) | Passkey support with better auth and Nitro |
 
 The hard part of open source isn't shipping v0.1 — it's still being there at v2.4 when iOS 27 breaks something. **I'm not going anywhere.**
 
