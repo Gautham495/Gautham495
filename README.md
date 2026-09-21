@@ -2,7 +2,7 @@
 
 I build and **maintain** production-grade React Native libraries — mostly Nitro modules that solve real problems RN teams hit in production.
 
-🇮🇳 · Lead Engineer · 6+ years shipping React Native, Next JS, JSI/C++ nitro native modules, and real-time systems with Cloudflare.
+🇮🇳 · Lead Engineer · 7+ years shipping React Native, Next JS, JSI/C++ nitro native modules, and real-time systems with Cloudflare.
 
 ---
 
